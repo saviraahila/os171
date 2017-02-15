@@ -20,3 +20,6 @@ drwxr-xr-x  2 savira.nurul51 StafCS 4096 Feb 14 16:14 week09
 drwxr-xr-x  2 savira.nurul51 StafCS 4096 Feb 14 16:15 week10
 drwxr-xr-x  2 savira.nurul51 StafCS 4096 Feb 14 16:15 xtra
 /home/fasilkom/mahasiswa/s/savira.nurul51/os171/week01
+Today is date +%d\ %b\ %Y\ at\ %H:%M:%S
+Today is date +%d\ %b\ %Y\ at\ %H:%M:%S
+Today is date +%d\ %b\ %Y\ at\ %H:%M:%S
