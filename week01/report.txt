@@ -1,0 +1,1 @@
+mencoba tutorial menggunakan terminal badak dan cara push dan pull repository
