@@ -1,0 +1,7 @@
+GITHUB Account		: saviraahila
+URL ulasan    		: http://saviraahila.blogspot.com/2017/05/ulasan1-cryptography-the-science.html
+URL video             	: http://youtu.be/-yFZGF8FHSg (8 menit 20 detik)
+Video author           	: SciShow
+Pemetaan               	: week02
+Revisi pertama         	: 18 Mei 2017
+Revisi terakhir        	: 18 Mei 2017
